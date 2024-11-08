@@ -1,0 +1,77 @@
+body {
+    font-size: 5rem;
+    background-image: url(https://kids.jotdown.es/wp-content/uploads/2023/02/Asi-hubiese-sido-Springfield-el-spin-off-de-Los-Simpson2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*Colores semaforo*/
+
+.redLight {
+    background-color: red;
+    border: none;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 20px 20px 20px 50px red;
+}
+
+.ambarLight {
+    background-color: rgb(223, 122, 22);
+    border: none;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 20px 20px 20px 50px rgb(223, 122, 22);
+}
+
+.greenLight {
+    background-color: rgb(92, 188, 36);
+    border: none;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 20px 20px 20px 50px rgb(92, 188, 36);
+}
+
+.square {
+    width: 200px;      
+    height: 600px;     
+    border-radius: 100px;
+    background: linear-gradient(to bottom, #4e4e4e, #201b1b);
+  }
+
+  .squaredos {
+    margin-left: 735px;
+    margin-top: -500px;
+    width: 501px;      
+    height: 40px; 
+    background: linear-gradient(to bottom, #4e4e4e, #201b1b);
+  }
+  
+  .circle {
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+    width: 150px;     
+    height: 150px;     
+    border-radius: 100px;
+  }
+
+  button {
+    width: 150px;     
+    height: 150px;     
+    border-radius: 100px;
+  }
+
+  #rojo {
+    background-color: red;
+  }
+
+  #ambar {
+    background-color: rgb(223, 122, 22);
+}
+  
+
+  #verde {
+    background-color:  rgb(92, 188, 36);
+  }
